@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6018e8f-989a-49ee-b1c2-e0070613e135" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2WF0gqwvjbtnwrAPYSMVX6yxwT5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTConfigurable&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ContactManagerTest.methodSourceTest">
+    <configuration name="ContactManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.EntityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.EntityTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EntityTest.ContactManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.ShouldThrowExceptionIfFirstnameEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.EntityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.EntityTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EntityTest.ContactManagerTest" />
+      <option name="METHOD_NAME" value="ShouldThrowExceptionIfFirstnameEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.checkMultiplePhoneNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.EntityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.EntityTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EntityTest.ContactManagerTest" />
+      <option name="METHOD_NAME" value="checkMultiplePhoneNumbers(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.checkWithCsvSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.EntityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.EntityTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EntityTest.ContactManagerTest" />
+      <option name="METHOD_NAME" value="checkWithCsvSource(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactManagerTest.methodSourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Unit-Testing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.EntityTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.EntityTest" />
+      <option name="MAIN_CLASS_NAME" value="org.example.EntityTest.ContactManagerTest" />
+      <option name="METHOD_NAME" value="methodSourceTest(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ContactManagerTest.methodSourceTest" />
+        <item itemvalue="JUnit.ContactManagerTest.checkWithCsvSource" />
+        <item itemvalue="JUnit.ContactManagerTest" />
+        <item itemvalue="JUnit.ContactManagerTest.checkMultiplePhoneNumbers" />
+        <item itemvalue="JUnit.ContactManagerTest.ShouldThrowExceptionIfFirstnameEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+</project>
